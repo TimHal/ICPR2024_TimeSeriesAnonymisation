@@ -5,5 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://TimHal.github.io',
                 'git_url': 'https://github.com/TimHal/ICPR2024_TimeSeriesAnonymisation',
                 'lib_path': 'ICPR2024_TimeSeriesAnonymisation'},
-  'syms': { 'ICPR2024_TimeSeriesAnonymisation.core': { 'ICPR2024_TimeSeriesAnonymisation.core.foo': ( 'core.html#foo',
-                                                                                                      'ICPR2024_TimeSeriesAnonymisation/core.py')}}}
+  'syms': { 'ICPR2024_TimeSeriesAnonymisation.autoencoder': {},
+            'ICPR2024_TimeSeriesAnonymisation.core': { 'ICPR2024_TimeSeriesAnonymisation.core.foo': ( 'core.html#foo',
+                                                                                                      'ICPR2024_TimeSeriesAnonymisation/core.py')},
+            'ICPR2024_TimeSeriesAnonymisation.models.Autoencoder.ae_mbientlab': {},
+            'ICPR2024_TimeSeriesAnonymisation.models.Autoencoder.ae_mocap': {}}}
