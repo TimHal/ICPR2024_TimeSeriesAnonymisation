@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ICPR2024_TimeSeriesAnonymisation"
+  site-url: "https://TimHal.github.io/ICPR2024_TimeSeriesAnonymisation"
+  description: "ICPR 2024: Anonymisation for Time-Series Human Activity Data"
+  repo-branch: main
+  repo-url: "https://github.com/TimHal/ICPR2024_TimeSeriesAnonymisation"
