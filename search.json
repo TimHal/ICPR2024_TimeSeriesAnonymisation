@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "requirements.html",
+    "href": "requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Requirements"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "preprocessing.html",
+    "href": "preprocessing.html",
+    "title": "Preprocessing",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Preprocessing"
+    ]
+  },
+  {
+    "objectID": "autoencoder_training.html",
+    "href": "autoencoder_training.html",
+    "title": "Autoencoder Training",
+    "section": "",
+    "text": "from ICPR2024_TimeSeriesAnonymisation.models.Autoencoder import ae_mbientlab, ae_mocap\n\n\n\ntrain_mbientlab\n\n train_mbientlab (max_epochs:int=100, export_path:str=None)\n\n\n\n\n\n\n\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\nmax_epochs\nint\n100\nMaximum number of epochs, if termination criterion\n\n\nexport_path\nstr\nNone\nPath where the trained model is to be stored.\n\n\nReturns\n(&lt;class ‘float’&gt;, &lt;class ‘float’&gt;)\n\nFinal validation acc and precision",
+    "crumbs": [
+      "Autoencoder Training"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "",
+    "text": "Tim Hallyburton, Nilah Ravi Nair, Fernando Moya Rueda, Rene Grzeszick and Gernot A. Fink",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#authors",
+    "href": "index.html#authors",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "",
+    "text": "Tim Hallyburton, Nilah Ravi Nair, Fernando Moya Rueda, Rene Grzeszick and Gernot A. Fink",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "Abstract",
+    "text": "Abstract",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#keywords",
+    "href": "index.html#keywords",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "Keywords",
+    "text": "Keywords\nAnonyminising - Privacy - GAN - DFI - Autoencoder",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#installation",
+    "href": "index.html#installation",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "Installation",
+    "text": "Installation\npip install ICPR2024_TimeSeriesAnonymisation",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "Usage",
+    "text": "Usage\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "ICPR2024_TimeSeriesAnonymisation",
+    "section": "Contributing",
+    "text": "Contributing",
+    "crumbs": [
+      "ICPR2024_TimeSeriesAnonymisation"
+    ]
+  }
+]
